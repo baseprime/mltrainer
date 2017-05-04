@@ -17,8 +17,8 @@ A lightweight, flexible PyTorch training framework designed to streamline model 
 First, clone this repository, then install the required libraries:
 
 ```bash
-git clone https://github.com/baseprime/MLTrainer.git
-cd MLTrainer 
+git clone https://github.com/baseprime/mltrainer.git
+cd mltrainer 
 pip install -r requirements.txt
 ```
 
